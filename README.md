@@ -13,7 +13,6 @@ PS: Code isn't really great, pull requests would be welcome
 - [ ] About info
 - [ ] Support question and answer styling
 - [ ] Autotests
-- [ ] Custom domain
 
 ## Example kahoot quiz ##
 Pin: 11111111  
