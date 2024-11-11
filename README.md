@@ -1,6 +1,6 @@
 
 # Kahoot Answers #
-Live: **https://khanswers.vercel.app**
+Live: **https://www.kahootinfo.com**
 
 It just sends get request to the one of API urls below and formats json response in html code. You can enter pin, id and any of gui urls. It can't be traced by your teacher and works for all quizes. 
 
